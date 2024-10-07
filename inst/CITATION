@@ -1,0 +1,14 @@
+citHeader("To cite GTbasedIM in publications, please use:")
+
+bibentry(
+      bibtype = "Article",
+	  author = c(
+      person(given = "Laura", family = "Davila-Pena"),
+      person(given = "Alejandro", family = "Saavedra-Nieves"),
+      person(given = "Balbina", family = "Casas-Méndez")
+    ),
+    title = "On the influence of dependent features in classification problems: a game-theoretic perspective",
+    journal = "arXiv preprint",
+    year = "2024",
+    doi = "10.48550/arXiv.2408.02481"
+ )
